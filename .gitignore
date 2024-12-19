@@ -7,3 +7,6 @@
 *.tiff
 *.svg
 *.txt
+
+# Not Ignore
+!test_image.jpg
